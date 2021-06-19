@@ -1,5 +1,5 @@
 # Technology Stack
 
-* ### Java
+* ### Java (javax.servlet)
 * ### Postgres
 * ### Default web stuff + JSP
