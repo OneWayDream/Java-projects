@@ -1,0 +1,93 @@
+#mainContainer{
+    margin: auto;
+    text-align: center;
+}
+.top-3{
+    border-radius: 25px;
+    opacity: 0.85;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+.top-3-header{
+    border-bottom: 16px inset #0275d8;
+}
+.top-3-image{
+    margin-bottom: 120px;
+}
+.d-block{
+    margin: auto;
+    opacity: 1;
+}
+.carousel{
+    padding-top: 15px;
+}
+.first-place{
+    color: gold;
+}
+.second-place{
+    color: silver;
+}
+.third-place{
+    color: #e07f1f;
+}
+.top-3-header-span{
+    display: inline;
+}
+.top-3-tooltip{
+    display: inline;
+}
+.calculator{
+    border-radius: 25px;
+    opacity: 0.85;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
+.calculator-header{
+    border-bottom: 16px inset #0275d8;
+}
+.calculator-header-span{
+    display: inline;
+}
+.container-minion-image{
+    width: content-box;
+    opacity: 1;
+}
+.minion-choose{
+    padding-bottom: 20px;
+}
+.minion-image{
+    border: 5px solid darkslategray;
+}
+.container-minion-upgrades{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 20px;
+    width: 100%;
+}
+.fuel-image{
+    border: 5px solid darkslategray;
+    width: 33%;
+}
+.upgrade1-image{
+    border: 5px solid darkslategray;
+    width: 33%;
+}
+.upgrade2-image{
+    border: 5px solid darkslategray;
+    width: 33%;
+}
+
+#errorPanel{
+    display: none;
+}
+
+#warningPanel{
+    display: none;
+}
+
+#resultPanel{
+    display: none;
+}
+

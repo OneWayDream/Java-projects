@@ -1,0 +1,17 @@
+GET http://localhost:8080/json/users?page=0&size=4
+
+###
+
+POST http://localhost:8080/users/json
+Content-Type: application/json
+
+{
+  "firstName": "Новый пользователь",
+  "lastName": "Очень новый"
+}
+
+###
+
+GET https://api.hypixel.net/skyblock/bazaar?key=f91af11e-c976-456d-80f8-6cfeb8219cf8
+
+###

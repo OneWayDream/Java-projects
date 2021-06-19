@@ -1,0 +1,1 @@
+INSERT INTO public.data_access_user (id, hashpassword, login, role, state) VALUES (1, '$2a$10$j.KCE3yGljpO8PjRUvcDTe3Rkk/zdCoEsYKIF00.FMcddVPnBz/qG', 'OneWayDream', 'ADMIN', 'ACTIVE');
