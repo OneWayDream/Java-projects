@@ -1,4 +1,9 @@
-# Minion-Valuation
+`Minion Valuation - it is a website utility for Skyblock on the Minecraft Hypixel server. The main functionality is to calculate income per minion depending on improvements, fuel and so on.`
 
-Minion-Valuation is a project carried out as a semester work on computer science.
-The main functionality is a utility for Skyblock mode of Hypixel server of Minecraft game.  The site calculates the possible profit for different minions (entities in the game that extract resources for the player without his direct intervention) with various installed improvements and fuel based on the prices of game entities (nps) and the bazaar (a platform where prices and demand are formally controlled by players. In order to ensure that the prices are always up to date, the server updates the Hypixel key API every 20 minutes).
+`Since this project was written as a university, for the tick here is all the functionality of working with the user - registration, authorization and so on. It doesn't make sense, but it works!`
+
+`Unfortunately (or not), interest in this game has been lost, so there will be no further development of this site.`
+
+`Servlet Version, I strongly advise you to look only if you are interested in servlets. Everything done there is quite primitive. Moreover, the storage of entities in the database is horrible`
+
+`The Spring Version looks better. This is a variant of this project on Spring MVC without using Spring Boot dependencies.`
