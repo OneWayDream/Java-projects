@@ -1,1 +1,2 @@
-# Simple_Chat
+# Socket chat
+`It is just socket chat implementation`
