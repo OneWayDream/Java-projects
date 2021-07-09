@@ -51,21 +51,55 @@ Here you can see my educational and not-so-educational projects with Java as the
 
 > Simple Entity Manager realisation. I tried to use a lot of interfaces from javax.persistance without any tips from internet. Anyway, it was good experience to work with reflection.
 
+### Used stuff:
+```diff
+- Java [reflection, Lombok]
+@@ Databases (for testing operability) [postgres, HikariCP] @@
++ Simple testing (only integration 🙁) [hamcrest, io.zonky.test.embedded-postgres, junit]
+# Project's build tool [Maven]
+```
+
 ## Message Funnel
 
 > Not big back-end project, done during summer practice in SimbirSoft company. Main idea of this project - centralize the functionality of several bots in one.
+
+### Used stuff:
+```diff
+- Java [Lombok, JDA, telegrambots and telegrambotsextensions, Java NIO Sockets]
+! Logging [slf4g]
+# Project's build tool [Maven]
+```
 
 ## Minion Valuation
 
 > My university semester work of Second Semester 😐, its just addition site for Minecraft Hypixel Skyblock to facilitate minion's profit calculation.
 
+### Used stuff:
+```diff
+- Java [Servlets OR Spring (Security, JPA, AOP), Lombok, Swagger, JWT]
+@@ Databases [postgres, HikariCP, Redis] @@
+! Logging [slf4g]
+```
+
 ## Rarriate
 
 > Also university semester work of Second Semester, it is simple weird 2D game.
 
+### Used stuff:
+```diff
+- Java [JavaFX, Java NIO Sockets, Lombok]
+# Project's build tool [Maven]
+```
+
 ## Socket Chat
 
 > Small application, contains client and server classes for chating.
+
+### Used stuff:
+```diff
+- Java [Java NIO Sockets, Lombok]
+# Project's build tool [Maven]
+```
 
 
 
