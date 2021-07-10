@@ -79,6 +79,7 @@ Here you can see my educational and not-so-educational projects with Java as the
 - Java [Servlets OR Spring (Security, JPA, AOP), Lombok, Swagger, JWT]
 @@ Databases [postgres, HikariCP, Redis] @@
 ! Logging [slf4g]
+# Project's build tool [Maven]
 ```
 
 ## Rarriate
