@@ -1,4 +1,3 @@
-/*---------------------------------------------------------------------------*\
 # _Rarriate_
 
 # `About game`
@@ -19,7 +18,5 @@
 ###### (as a loyal citizen of the Antarctica Empire, we make absolutely no money in monetization or donations, so enjoy free bugs and bad code at our expense)
 
 * #### All gaming process was created by [this person](https://github.com/Samurai9)
-
-/*---------------------------------------------------------------------------*\
 
 
