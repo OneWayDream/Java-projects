@@ -1,2 +1,2 @@
 # Socket chat
-`It is just socket chat implementation`
+> It is just socket chat implementation 🙂
