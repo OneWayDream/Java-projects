@@ -39,7 +39,7 @@ Here you can see my educational and not-so-educational projects with Java as the
   </ol>
 </details>
 
-<--Entity Manager-->
+<!--Entity Manager-->
 ## Entity Manager
 
 > Simple Entity Manager realisation. I tried to use a lot of interfaces from javax.persistance without any tips from internet. Anyway, it was good experience to work with reflection.
@@ -52,7 +52,7 @@ Here you can see my educational and not-so-educational projects with Java as the
 # Project's build tool [Maven]
 ```
 
-<--Message Funnel-->
+<!--Message Funnel-->
 ## Message Funnel
 
 > Not big back-end project, done during summer practice in SimbirSoft company. Main idea of this project - centralize the functionality of several bots in one.
@@ -64,7 +64,7 @@ Here you can see my educational and not-so-educational projects with Java as the
 # Project's build tool [Maven]
 ```
 
-<--Minion Valuation-->
+<!--Minion Valuation-->
 ## Minion Valuation
 
 > My university semester work of Second Semester 😐, its just addition site for Minecraft Hypixel Skyblock to facilitate minion's profit calculation.
@@ -76,7 +76,7 @@ Here you can see my educational and not-so-educational projects with Java as the
 ! Logging [slf4g]
 # Project's build tool [Maven]
 ```
-<--Rarriate-->
+<!--Rarriate-->
 ## Rarriate
 
 > Also university semester work of Second Semester, it is simple weird 2D game.
@@ -87,7 +87,7 @@ Here you can see my educational and not-so-educational projects with Java as the
 # Project's build tool [Maven]
 ```
 
-<--Socket Chat-->
+<!--Socket Chat-->
 ## Socket Chat
 
 > Small application, contains client and server classes for chating.
