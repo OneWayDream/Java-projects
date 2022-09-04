@@ -1,6 +1,6 @@
 # Simple Persistence Manager
 
-> Simple Entity Manager realisation. I tried to use a lot of interfaces from javax.persistance without any tips from internet. Anyway, it was good experience to work with reflection.
+> Simple Entity Manager realisation. I tried to use a lot of interfaces from javax.persistence without any tips from internet. Anyway, it was good experience to work with reflection.
 
 <!--Methods List-->
 <details open="open">
